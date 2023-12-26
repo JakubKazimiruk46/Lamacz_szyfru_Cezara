@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ŁamaczSzyfruCezara", "ŁamaczSzyfruCezara\ŁamaczSzyfruCezara.pyproj", "{45EA50EC-572E-440E-8638-B052B51702AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EA50EC-572E-440E-8638-B052B51702AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EA50EC-572E-440E-8638-B052B51702AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74046AF-75DE-4A1D-BDAE-4C5882344BF8}
+	EndGlobalSection
+EndGlobal
